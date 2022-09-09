@@ -1,0 +1,35 @@
+.navigation {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    background-color: rgba(185, 6, 6, 0.267);
+
+  .logo-container{
+    padding: 1px;
+  }
+  .logo{
+    color: black;
+    font-size: 1.5rem;
+  }
+  .sub-logo{
+    color: black;
+    margin-top: -18px;
+  }
+  
+    .nav-links-container {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+  
+      .nav-link {
+        padding: 10px 15px;
+        cursor: pointer;
+        color: white;
+      }
+    }
+    
+  }

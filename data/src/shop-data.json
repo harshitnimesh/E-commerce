@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "name": "blue Kurta",
+      "imageUrl": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/11312628/2020/1/17/551da653-fc10-4645-8957-e2110ba469561579252634270-See-Designs-Men-Blue--White-Printed-Straight-Kurta-715157925-1.jpg",
+      "price": 25
+    },
+    {
+      "id": 1,
+      "name": "Pure varanasi Saree",
+      "imageUrl": "http://cdn.shopify.com/s/files/1/2699/9016/collections/Untitled_design_36.png?v=1620732191",
+      "price": 22
+    },
+    {
+      "id": 2,
+      "name": "Black suit",
+      "imageUrl": "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWVucyUyMGZhc2hpb258ZW58MHx8MHx8&w=1000&q=80",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "Shirt & lungi",
+      "imageUrl": "https://i.pinimg.com/736x/bf/40/77/bf4077985e5a266c28dd47f5a8233806.jpg",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Blue sarahttps://i.ibb.co/RjBLWxB/grey-brim.pngra",
+      "imageUrl": "https://assets0.mirraw.com/images/7893307/Rama_Chinon_Salwar_small.jpg?1582363191",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "princess shoes",
+      "imageUrl": "https://i.pinimg.com/736x/f9/13/12/f91312142ce996dac38015dedaf66e4b.jpg",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Man wedding jewelry",
+      "imageUrl": "https://i.pinimg.com/736x/b8/f9/c4/b8f9c4e966bb7def05efcf283638b7a5--marriage-dress-indian-groom.jpg",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Wedding set",
+      "imageUrl": "https://m.media-amazon.com/images/I/8191HXDK1UL._UL1500_.jpg",
+      "price": 187
+    },
+    {
+      "id": 8,
+      "name": "Summer skirt",
+      "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20220723/MuAF/62db0b48f997dd03e2ed7e96/tior_green_floral_print_fit_%26_flare__dress.jpg",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "Floara FLower dress",
+      "imageUrl": "https://www.brides.com/thmb/0nt6arD5v7PYUHkjrxTuOJujwGM=/fit-in/1000x1500/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-02-17at11.03.06JPEG-a7ef57ca43ea46e499033b8972a1170b.jpg",
+      "price": 16
+    }
+    ,{
+      "id": 10,
+      "name": "Brow jacket",
+      "imageUrl":"https://media.gq.com/photos/616f1e50af7badb1a03350cd/master/w_2000,h_1333,c_limit/Landing-Leathers-A-2-bomber-jacket.jpg",
+      "price": 20
+    },
+    {
+      "id": 11,
+      "name": "italian blue jacket",
+      "imageUrl":"https://lureurban.in/image/cache/catalog/gallery/women-jacket-sky-blue-600x750.jpg",
+      "price": 27
+    }
+  ]
